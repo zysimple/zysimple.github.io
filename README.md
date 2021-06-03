@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: zhang
-tagline: A simple and beautiful vuepress blog theme.
+heroText: Zhang
+tagline: 你知道的越多 你不知道的越多.
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
